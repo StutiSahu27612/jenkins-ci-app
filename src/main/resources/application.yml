@@ -6,8 +6,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://54.81.127.107:3306/wine
-    username: admin
-    password: Root1234
+    username: root
+    password: root
   jpa:
     hibernate:
       ddl-auto: update
