@@ -5,7 +5,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://wine.cwxwqx6ognaz.us-east-1.rds.amazonaws.com:3306/wine
+    url: jdbc:mysql://54.81.127.107:3306/wine
     username: admin
     password: Root1234
   jpa:
